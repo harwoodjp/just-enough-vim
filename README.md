@@ -19,13 +19,15 @@
     * Backward
       * `b`
   * Move to beginning of line
-      * `0`
+    * `0`
   * Move to end of line
-      * `$`
+    * `$`
   * Down a line
-      * `j`
+    * `j`
   * Up a line
-      * `k`
+    * `k`
+  * Move to middle of screen
+    * `M`
 
 # Writing
   * Insert mode
@@ -45,4 +47,4 @@
   * Save/write
     * `w`
   * Quit
-    * `wq`
+    * `q`
