@@ -33,14 +33,16 @@
   * Undo
     * `u`
   * Redo
-    * `ctrl+r`
+    * `ctrl` + `r`
   * Select
     * `V` then move cursor
   * Cut
     * `dd`
   * Paste
     * `p`
-  * Save
-    * `w` (write)
+  * Delete line
+    * `dd`
+  * Save/write
+    * `w`
   * Quit
     * `wq`
