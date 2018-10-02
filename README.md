@@ -26,6 +26,10 @@
     * `j`
   * Up a line
     * `k`
+  * Right a column
+    * `l`
+  * Left a column
+    * `h`
   * Move to middle of screen
     * `M`
 
