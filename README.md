@@ -39,7 +39,7 @@
   * Select
     * `V` then move cursor
   * Cut
-    * `dd`
+    * `d`
   * Paste
     * `p`
   * Delete line
