@@ -44,11 +44,13 @@
     * `V` then move cursor
   * Cut
     * `d`
+  * Yank/copy
+    * `y`
   * Paste
     * `p`
   * Delete line
     * `dd`
-  * Save/write
+  * Write/save
     * `w`
   * Quit
     * `q`
