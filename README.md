@@ -30,8 +30,14 @@
     * `l`
   * Left a column
     * `h`
+  * Move to top of screen
+    * `H`
   * Move to middle of screen
     * `M`
+  * Move to bottom of screen
+    * `L`
+  * Search
+    * `/[search-term]`
 
 # Writing
   * Insert mode
