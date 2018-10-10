@@ -38,6 +38,10 @@
     * `L`
   * Search
     * `/[search-term]`
+  * Scroll forward
+    * `ctrl+f`
+  * Scroll back
+    * `ctrl+b`
 
 # Writing
   * Insert mode
@@ -60,3 +64,5 @@
     * `w`
   * Quit
     * `q`
+  * Swap
+    * `s/[find-val]/[replace-val]
