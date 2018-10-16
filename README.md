@@ -1,5 +1,9 @@
 # Setup
   * Config file is `~/.vimrc`
+
+  * Allow mouse navigation (if supported)
+    * `set mouse=a`
+
   * Turn on syntax highlighting
     * `syntax on`
   * Set indent to 2 spaces
@@ -65,4 +69,4 @@
   * Quit
     * `q`
   * Swap
-    * `s/[find-val]/[replace-val]
+    * `s/[find-val]/[replace-val]`
